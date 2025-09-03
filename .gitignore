@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints
+
+# Data files (don’t push full datasets)
+*.csv
+*.xlsx
+
+# Logs
+*.log
+
+
+cat .gitignore
+
+
+
+
+
+
