@@ -103,16 +103,4 @@ The project uses three datasets:
 
 ### **7. Final Submission**
 - **Predicted SLA values:** `submission.csv` containing `id` and `predicted_exact_sla`.  
-- **Report / Presentation:** Explains methodology, feature engineering, EDA, model performance, and actionable insights.  
-- **Integration Suggestions:** Recommendations for Clickpost system integration:  
-  - Real-time prediction for individual orders  
-  - Bulk SLA computation  
-  - Dashboard for monitoring SLA deviations  
 
----
-
-## How to Run
-1. Clone the repository:  
-```bash
-git clone <your-github-repo-url>
-cd EDD-Prediction
